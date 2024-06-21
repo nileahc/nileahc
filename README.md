@@ -7,6 +7,10 @@
 <br>
 <h2>Career</h2>
 <li>Kongju University  2019.03~2023.02</li>
+
+<h2>Skills</h2>
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 <br>
 <p>Thank you for visiting my github profile. Have a nice day :)</p>
 
