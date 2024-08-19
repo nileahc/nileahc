@@ -8,7 +8,7 @@
 <h2>Career</h2>
 <li>Kongju University  2019.03~2023.02</li>
 
-<h2>Skills</h2>
+
 
 
 <br>
